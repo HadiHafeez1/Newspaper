@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(247, 242, 235);
+}
+hr{
+   border-color: black; 
+}
+.hello{
+    border-left: 2px solid black;
+}
